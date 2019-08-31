@@ -1,0 +1,7 @@
+push changes
+
+
+
+command : git push -u origin master
+
+create remote command in visual studio code : git remote add origin https://github.com/cchtnn/firstProject.git
