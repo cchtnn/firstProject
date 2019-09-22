@@ -1,3 +1,7 @@
+go to this folder first :
+
+F:\data science\Github\firstProject>
+
 push changes
 
 
