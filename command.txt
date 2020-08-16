@@ -9,3 +9,21 @@ push changes
 command : git push -u origin master
 
 create remote command in visual studio code : git remote add origin https://github.com/cchtnn/firstProject.git
+
+
+
+------ Added on 16/08/2020-----------------
+git clone https://github.com/cchtnn/firstProject.git : it will download the file.
+
+git branch : will take you to the master branch
+
+git branch -b chetan_master  : create new branch with name as chetan_master
+
+git push 
+git push --set-upstream origin chetan_master   : it will push the all code to chetan_master branch
+
+suppose you have to delete chetan_master, so for that 
+1:) git checkout master   : switch to master first(or any other master file)
+
+2:) git branch -D chetan_master  : you can use -d
+git push origin --delete Test_Branch : it will hard delete from the github
