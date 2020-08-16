@@ -27,3 +27,11 @@ suppose you have to delete chetan_master, so for that
 
 2:) git branch -D chetan_master  : you can use -d
 git push origin --delete Test_Branch : it will hard delete from the github
+
+
+--------- if you downloaded the code from git and updated the code and trying to push for the 1st time----
+1:) git config --global user.name "Chetan Mishra" 
+
+2:) git config --global user.email "mishracchetan619@gmail.com"
+
+3:) git push -u origin master : if not first time the directly use this command to push code.
