@@ -12,7 +12,7 @@ create remote command in visual studio code : git remote add origin https://gith
 
 
 
------- Added on 16/08/2020-----------------
+------ Added on 21/02/2021-----------------
 git clone https://github.com/cchtnn/firstProject.git : it will download the file.
 
 git branch : will take you to the master branch
